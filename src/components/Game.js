@@ -10,7 +10,7 @@ class Game extends Component {
       displayWinner: false,
       turnCounter: 0,
       tilesSize: 7,
-      marker: 1,
+      marker: 3,
       tiles: [false, false, false, true, false, false, false], //this is used to provide the right true/false towards the shotglass images rendering
       player1Wins: 0,
       player2Wins: 0,
