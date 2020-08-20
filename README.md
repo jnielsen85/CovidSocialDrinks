@@ -1,5 +1,5 @@
-#Project background
-This project was the brainchild of 4 aspiring web developers who were lockdown due to COVID and needed a way to pass the time and enjoy spending quality social-distanced time together.
+# Project background
+This project was the brainchild of 4 aspiring web developers who were lockeddown due to COVID and wanted to spend quality, albeit, social-distanced time together.  The goal then, was to bridge the digital and social divide between remote GA Students with a lighthearted drinking game. 
 
 Deployment website:
 https://drinking-game-663f5.web.app/
