@@ -1,10 +1,13 @@
-# Project background
-This project was the brainchild of 4 aspiring web developers who were lockeddown due to COVID and wanted to spend quality, albeit, social-distanced time together.  The goal then, was to bridge the digital and social divide between remote GA Students with a lighthearted drinking game. 
+# Covid Social Drinking game
+![drinking game gif](coviddrinkinggif.gif)
+
+## Project background
+This project was the brainchild of 4 aspiring web developers who were lockeddown due to COVID and wanted to spend quality, albeit, social-distanced time together.  The goal then, was to bridge the digital and social divide between remote GA Students with a lighthearted drinking game.
 
 Deployment website:
 https://drinking-game-663f5.web.app/
 
-# Project Overview
+## Project Overview
 
 This section covers all necessary technologies used for the program, as well as a "how to play" guide.
 
@@ -16,7 +19,7 @@ This section covers all necessary technologies used for the program, as well as 
 * Once the coin moves to either div 1 or div 7, the appropriate player wins
 * Congratulations losing player! Have a drink :)
 
-## Technologies used 
+## Technologies used
 
 * React.js as the front end library for JavaScript.
 * Firebase as a backend database. This is used for user authentication + Deployment + Trivia in the firestore.
